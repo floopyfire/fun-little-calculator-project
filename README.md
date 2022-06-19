@@ -8,4 +8,6 @@
 #### <b>5.</b> exponentiation
 #### <b>6.</b> roots (any, really)
 #### <b>7.</b> factorialization
-## i probably will check on this page every once in a while, but dont expect me to fix every single bug in 2 hours. also, i know the code can be simplified but i really dont care
+## how to use
+#### just install the operators and calculator file, make sure you place them on only one folder, otherwise im afraid it wont work.
+### i probably will check on this page every once in a while, but dont expect me to fix every single bug in 2 hours. also, i know the code can be simplified but i really dont care
